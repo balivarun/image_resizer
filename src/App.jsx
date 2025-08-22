@@ -302,7 +302,7 @@ function App() {
               <Camera className="text-blue-400 animate-pulse" size={48} />
               <Sparkles className="absolute -top-2 -right-2 text-yellow-400 animate-bounce" size={20} />
             </div>
-            Pro Image Studio
+            Apertura
           </h1>
           <p className="text-gray-300 text-lg mb-6">Professional image editing with AI-powered filters and batch processing</p>
           
